@@ -1,4 +1,4 @@
-module github.com/Nitro/urlsign
+module github.com/NinesStack/urlsign
 
 go 1.22.0
 

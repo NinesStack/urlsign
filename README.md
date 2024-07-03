@@ -1,7 +1,7 @@
 urlsign
 =======
 
-[![godoc here](https://img.shields.io/badge/godoc-here-blue.svg)](http://pkg.go.dev/github.com/Nitro/urlsign)
+[![godoc here](https://img.shields.io/badge/godoc-here-blue.svg)](http://pkg.go.dev/github.com/NinesStack/urlsign)
 
 Package urlsign contains a signed URL mechanism, where a URL can safely be
 passed through a third party and validated before being served. 
